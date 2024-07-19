@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "3848",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "date": "2024-05-08T14:25:27.151Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": 40.06768529104829,
+        "lng": -0.08256912231445312
+      }
+    },
+    {
+      "id": "6e5b",
+      "cityName": "Vilafames",
+      "country": "Spain",
+      "date": "2024-05-08T14:29:00.666Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": 40.10708022353122,
+        "lng": -0.13870239257812503
+      }
+    },
+    {
+      "id": "0c72",
+      "cityName": "Lucena del Cid",
+      "country": "Spain",
+      "date": "2024-05-08T17:06:17.620Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": 40.15026770507649,
+        "lng": -0.2830696105957032
+      }
+    },
+    {
+      "id": "fa1a",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "date": "2024-05-13T14:30:22.147Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": 39.97385207675589,
+        "lng": -0.010643005371093752
+      }
+    },
+    {
+      "id": "b5ab",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "date": "2024-05-14T16:10:24.051Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": 40.03800015697552,
+        "lng": -0.03982543945312501
+      }
+    }
+  ]
+}
